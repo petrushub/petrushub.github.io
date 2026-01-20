@@ -1,1 +1,9 @@
+title: Pedro Pérez Sánchez
+description: Systems - Cloud - DevOps Engineer | Kubernetes | Terraform | CI/CD
 theme: jekyll-theme-hacker
+
+github:
+  is_project_page: false
+
+plugins:
+  - jekyll-seo-tag
