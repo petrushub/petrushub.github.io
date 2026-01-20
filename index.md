@@ -3,9 +3,6 @@ layout: default
 title: Home
 ---
 
-## Pedro Pérez Sánchez
-### Cloud DevOps Engineer
-
 Automation-focused DevOps Engineer with hands-on experience in:
 - AWS, GCP, OVH
 - Kubernetes, Helm
